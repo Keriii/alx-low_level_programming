@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *  main - entry point
- *  Description: prints all possible combinations of three differnet digits in assending order separated by a coma followed by a space
- *  Return: 0
+ *  main - prints all possible combinations of three differnet digits,
+ *   in assending order separated by a coma followed by a space
+ *  Return: Always 0.
  */
 int main(void)
 {

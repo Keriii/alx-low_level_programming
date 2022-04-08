@@ -1,8 +1,10 @@
 #include <stdio.h>
+
 /**
- * main - entry point
- * Description: Prints all possible combination of twodouble digit numbers ranging from 0-99, separated by a coma and followed by a space
- * Return: 0
+ * main - Prints all possible combination of twodouble digit numbers,
+ *ranging from 0-99, separated by a coma and followed by a space
+ *
+ * Return: Always 0.
  */
 int main(void)
 {
