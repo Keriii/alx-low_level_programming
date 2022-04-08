@@ -2,7 +2,7 @@
 /**
  * main - entry point
  * Description: Prints all singel digit number to the base 10
- * return: 0
+ * Return: 0
  */
 int main(void)
 {
