@@ -19,16 +19,15 @@ int main(void)
 			{
 			putchar(48 + a);
 			putchar(48 + b);
-			
 			if (a + b)
 			{
 				putchar(',');
 				putchar(' ');
 			}
 		}
-		a++;
+		b++;
 	}
-	b++;
+	a++;
 }
 putchar('\n');
 return (0);
