@@ -14,7 +14,9 @@ int main(void)
 	{
 		if (a != 9)
 		{
-		putchar(48 + a", ");
+		putchar(48 + a);
+		putchar(',');
+		putchar(' ');
 		}
 		else
 		{
@@ -22,6 +24,5 @@ int main(void)
 		}
 		a++;
 	}
-	putchar('\n');
 	return (0);
 }
