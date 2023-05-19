@@ -34,6 +34,6 @@ else
 	printf("Last digit of %d is %d and is greater than 5", n, a);
 	}
 }
-printf('\n');
+printf("\n");
 return (0);
 }
