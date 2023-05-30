@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * reset _to_98 - updates the value it points to 98
- * *n - input integer
+ * reset_to_98 - updates the value it points to 98
+ * @n - input integer
  * Return: 0 (success)
  */
 void reset_to_98(int *n)
