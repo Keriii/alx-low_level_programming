@@ -5,7 +5,7 @@
  * *str: input parameter
  * Return: 0 (Success)
  */
-int _puts(char *str)
+void _puts(char *str)
 {
 	int a = 0;
 
