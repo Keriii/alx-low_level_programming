@@ -5,7 +5,7 @@
  * @s: input parameter
  * Return: 0 (Sucess)
  */
-void print_rev(char *s);
+void print_rev(char *s)
 {
 	int a = 0;
 
