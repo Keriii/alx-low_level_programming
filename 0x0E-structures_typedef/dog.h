@@ -6,7 +6,10 @@
  * @name: mane of the dog
  * @age: age of the dog
  * @owner: owner of the dog
+ * dog_t - new name for struc
  */
+
+typedef struct dog dog_t;
 
 struct dog
 {
